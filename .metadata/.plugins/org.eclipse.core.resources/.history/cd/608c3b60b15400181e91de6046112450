@@ -1,0 +1,29 @@
+<suite name="NewTours Application Testing">
+  
+  <test name="UserRegistration">
+   <classes>
+      <class name="com.DataDriven.NewTours_UserRegistration_TestData"/>
+   </classes>
+ </test>
+ 
+ 
+ <test name="LogInTest">
+   <classes>
+      <class name="com.Annotations.NewTours_LogInTesting"/>
+   </classes>
+ </test>
+ 
+ <test name="LogInTestKeyWord">
+   <classes>
+      <class name="com.KeyWord.NewToursLogIntesting"/>
+   </classes>
+ </test>
+ 
+ 
+  <test name="POM">
+   <classes>
+      <class name="com.POM.NewToursHomePageTesting"/>
+   </classes>
+ </test>
+ 
+</suite>

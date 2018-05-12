@@ -1,0 +1,13 @@
+
+# name locator for Usename ELement
+
+UserName=userName
+
+
+# name locator for Password Element
+
+Password=password
+
+#name locator for SignIn Eleent
+
+SignIn=login
